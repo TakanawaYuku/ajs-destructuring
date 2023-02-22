@@ -1,0 +1,30 @@
+{
+  "name": "ajs-destructuring",
+  "version": "1.0.0",
+  "description": "homework destructuring",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest . --coverage",
+    "lint": "eslint --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakanawaYuku/ajs-destructuring.git"
+  },
+  "author": "TakanawaYuku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakanawaYuku/ajs-destructuring/issues"
+  },
+  "homepage": "https://github.com/TakanawaYuku/ajs-destructuring#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.0",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.3",
+    "eslint": "^8.34.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "jest": "^29.4.3"
+  }
+}
