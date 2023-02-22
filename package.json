@@ -4,8 +4,8 @@
   "description": "homework destructuring",
   "main": "index.js",
   "scripts": {
-    "test": "jest . --coverage",
-    "lint": "eslint --fix"
+    "test": "jest --coverage",
+    "lint": "eslint . --fix"
   },
   "repository": {
     "type": "git",
